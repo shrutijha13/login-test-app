@@ -1,6 +1,8 @@
 # Welcome to the Login Test App
 
-To run the application, please run the following command:
+To run the application, first make sure that Docker is running.
+
+Then, please run the following command:
 ```
 ./startup.sh
 ```
